@@ -1,0 +1,5 @@
+- **Definição**: A identação em Python refere-se aos espaços em branco no início de uma linha de código.
+- **Importância**: É essencial para organizar e estruturar o código corretamente.
+- **Representação**: Imagine blocos coloridos em uma torre, empilhados alinhados para evitar que ela caia.
+- **Significado**: Cada bloco representa uma parte do código, e a identação mostra ao computador como elas se relacionam.
+- **Exemplo**: Em um condicional, colocamos as ações dentro com um espaço para dentro para que o computador entenda a lógica.

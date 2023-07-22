@@ -1,0 +1,57 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "editor:insert-embed",
+      "icon": "lucide-sticky-note",
+      "name": "Add embed",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:copy-url",
+      "icon": "lucide-copy",
+      "name": "Copy Obsidian URL",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "switcher:open",
+      "icon": "lucide-navigation",
+      "name": "Quick switcher: Open quick switcher",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [
+    {
+      "id": "quickadd:choice:f5e5ed62-d232-4db5-b761-4c04230e945b",
+      "icon": "video",
+      "name": "QuickAdd: youtube-video",
+      "mode": "any",
+      "color": "#ff1a1a"
+    }
+  ],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
