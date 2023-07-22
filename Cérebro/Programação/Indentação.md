@@ -1,5 +1,19 @@
-- **Definição**: A identação em Python refere-se aos espaços em branco no início de uma linha de código.
-- **Importância**: É essencial para organizar e estruturar o código corretamente.
-- **Representação**: Imagine blocos coloridos em uma torre, empilhados alinhados para evitar que ela caia.
-- **Significado**: Cada bloco representa uma parte do código, e a identação mostra ao computador como elas se relacionam.
-- **Exemplo**: Em um condicional, colocamos as ações dentro com um espaço para dentro para que o computador entenda a lógica.
+
+- **Definição**: Em Python, a identação refere-se à quantidade de espaços em branco no início de uma linha de código.
+
+- **Importância**: É essencial para definir a estrutura e o escopo do código.
+
+- **Bloco de Código**: A identação é usada para agrupar declarações em um bloco de código.
+
+**Exemplo**:
+
+if idade >= 18:     
+	print("Você é maior de idade.") 
+else:     
+	print("Você é menor de idade.")`
+
+- [[Condicionais]]: Em condicionais (como "if", "elif" e "else"), o bloco de código indentado é executado apenas se a condição for verdadeira.
+- [[Loops]]: Em loops (como "for" e "while"), o bloco de código indentado é repetido várias vezes.
+- **Funções**: Em funções, o bloco de código indentado é o corpo da função.
+
+##### `Boas práticas: Mantenha a mesma quantidade de espaços em branco em toda a indentação para evitar erros de sintaxe.`

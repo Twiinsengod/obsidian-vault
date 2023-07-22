@@ -3,28 +3,42 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "path:\"PYTHON\"",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    },
+    {
+      "query": "path:\"Bot de idéias\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
     {
       "query": "path:\"Obs Studio\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 11657298
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.19739583333333,
-  "lineSizeMultiplier": 2.0140625,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.83345454545455,
+  "lineSizeMultiplier": 2.34581818181818,
+  "collapse-forces": false,
+  "centerStrength": 0.748051948051948,
+  "repelStrength": 15.0545454545455,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224443,
+  "linkDistance": 30,
+  "scale": 0.7132754626224447,
   "close": true
 }

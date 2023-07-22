@@ -1,4 +1,3 @@
-##### Condicionais em Python - Resumo
 
 - **Definição**: Condicionais são estruturas de controle que permitem tomar decisões no código com base em condições.
 - **Estrutura**: Usamos "if", "elif" (opcional) e "else" (opcional) para criar condicionais.
@@ -14,8 +13,8 @@
 <br>
 - **Exemplo**:
 
-> idade = 18 
-> if idade >= 18: 
->>	print("Você é maior de idade.") 
-> else: 
-> 	print("Você é menor de idade.")
+ idade = 18 
+ if idade >= 18: 
+	print("Você é maior de idade.") 
+ else:  	
+	 print("Você é menor de idade.")

@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "58efaefdaf1ef6cf",
+        "id": "9155198adc4beff3",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6e42805e243031",
+            "id": "0101d0021512e37c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variáveis e Tipos de Dados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "29145b7ef3fda914",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9349d22ce3d83e9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variáveis e Tipos de Dados.md",
-                "mode": "source",
+                "file": "Programação/Variáveis e Tipos de Dados.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -83,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variáveis e Tipos de Dados.md",
+                "file": "Programação/Variáveis e Tipos de Dados.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variáveis e Tipos de Dados.md",
+                "file": "Programação/Variáveis e Tipos de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variáveis e Tipos de Dados.md"
+                "file": "Programação/Variáveis e Tipos de Dados.md"
               }
             }
           }
@@ -164,47 +145,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a6e42805e243031",
+  "active": "0101d0021512e37c",
   "lastOpenFiles": [
-    "Programação/Programação - Termos importantes.md",
-    "Variáveis e Tipos de Dados.md",
-    "Condicionais.md",
+    "Programação/String (str).md",
+    "Programação/PYTHON.md",
+    "Programação/Ponto flutuante (float).md",
+    "Programação/Loops.md",
+    "Programação/Lista (list).md",
+    "Programação/Inteiros (int).md",
+    "Programação/Instruções e Expressões.md",
     "Programação/Indentação.md",
+    "Programação/Funções.md",
+    "Programação/Condicionais.md",
+    "Sandbox/Bot de idéias -.md",
+    "Sandbox.md",
+    "Sandbox",
+    "Obs Studio/Efeito de teletransporte.md",
+    "Obs Studio/Teletransporte.md",
+    "Obs Studio/Outro efeito de vídeo.md",
+    "Obs Studio/Zoom do Mouse.md",
+    "Programação/Variáveis e Tipos de Dados.md",
+    "Programação/Resumos.md",
+    "Obs Studio/Arquivo de mídia/Pasted image 20230721203056.png",
+    "Obs Studio/Arquivo de mídia/Pasted image 20230721205224.png",
+    "Obs Studio/Arquivo de mídia",
+    "Obs Studio/Arquivo de mídia/Pasted image 20230721202613.png",
+    "Obs Studio/Obs Studio.md",
     "Daily Notes/22/07/2023.md",
     "Daily Notes/21/07/2023.md",
-    "Efeito de teletransporte.md",
     "Programação",
     "Daily Notes/22/07",
     "Daily Notes/22",
-    "Pasted image 20230721202613.png",
-    "Pasted image 20230721205224.png",
-    "Pasted image 20230721203056.png",
     "^.md",
-    "Obs Studio.md",
-    "Obs Studio/Teletransporte.md",
     "Daily Notes/20/07/2023.md",
-    "Outro efeito de vídeo.md",
     "Daily Notes/21/07",
     "Daily Notes/21",
-    "Obs Studio/Zoom do Mouse.md",
-    "Obs Studio/Bot de idéias.md",
     "Untitled 1.md",
     "settings.md",
     "Obs Studio",
     "Daily Notes/20/07",
     "Daily Notes/20",
-    "Daily Notes/18/07/2023.md",
-    "Daily Notes/18/07",
-    "Daily Notes/18",
-    "Runescape 3.md",
-    "New note.md",
-    "Daily notes.md",
-    "Suporte 5.md",
-    "O que fazer na lane.md",
-    "Itens necessários no início do jogo.md",
-    "2023-07-17.md",
-    "Como escolher um suporte adequado para o seu estilo de jogo.md",
-    "imortal.md",
     "Untitled.canvas"
   ]
 }
