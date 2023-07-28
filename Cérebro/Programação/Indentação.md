@@ -13,7 +13,7 @@ else:
 	print("Você é menor de idade.")`
 
 - [[Condicionais]]: Em condicionais (como "if", "elif" e "else"), o bloco de código indentado é executado apenas se a condição for verdadeira.
-- [[Loops]]: Em loops (como "for" e "while"), o bloco de código indentado é repetido várias vezes.
+- [[Loops]]: Em loops (como "[[for]]" e "[[while]]"), o bloco de código indentado é repetido várias vezes.
 - **Funções**: Em funções, o bloco de código indentado é o corpo da função.
 
 ##### `Boas práticas: Mantenha a mesma quantidade de espaços em branco em toda a indentação para evitar erros de sintaxe.`
