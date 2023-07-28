@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Indentação.md",
+                "file": "Módulos e Bibliotecas.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Indentação.md",
+                "file": "Módulos e Bibliotecas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Indentação.md",
+                "file": "Módulos e Bibliotecas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Indentação.md"
+                "file": "Módulos e Bibliotecas.md"
               }
             }
           }
@@ -148,14 +147,18 @@
   },
   "active": "da2d30a538a3ecf8",
   "lastOpenFiles": [
+    "Runescape 3/Daily Activities.md",
+    "Runescape 3",
+    "Programação/PYTHON.md",
+    "Módulos e Bibliotecas.md",
+    "if.md",
     "for.md",
+    "else.md",
+    "elif.md",
     "Programação/Indentação.md",
     "while.md",
     "Programação/Loops.md",
     "Programação/Condicionais.md",
-    "elif.md",
-    "else.md",
-    "if.md",
     "Programação/Variáveis e Tipos de Dados.md",
     "Programação/Instruções e Expressões.md",
     "Programação/Inteiros (int).md",
@@ -163,7 +166,6 @@
     "Programação/String (str).md",
     "Sandbox/Bot de idéias -.md",
     "Untitled.canvas",
-    "Programação/PYTHON.md",
     "Obs Studio/Efeito de teletransporte.md",
     "Daily Notes/28/07/2023.md",
     "Daily Notes/28/07",
@@ -178,15 +180,12 @@
     "Sandbox",
     "Obs Studio/Teletransporte.md",
     "Obs Studio/Outro efeito de vídeo.md",
-    "Obs Studio/Zoom do Mouse.md",
-    "Programação/Resumos.md",
     "Obs Studio/Arquivo de mídia/Pasted image 20230721203056.png",
     "Obs Studio/Arquivo de mídia/Pasted image 20230721205224.png",
     "Obs Studio/Arquivo de mídia",
     "Obs Studio/Arquivo de mídia/Pasted image 20230721202613.png",
     "Programação",
     "Daily Notes/22/07",
-    "Daily Notes/22",
-    "Daily Notes/21/07"
+    "Daily Notes/22"
   ]
 }
