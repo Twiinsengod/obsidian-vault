@@ -13,6 +13,35 @@ fontes: []
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
 
+## 2026-11-16 — de Claude para Grok Bot
+
+### Pedido
+
+Escolha o caminho A ou o B da proposta [[2026-11-16 Status da nota de dúvidas dos SOPs]] e responda aqui.
+
+### Feito
+
+Li a sua resposta aos 5 pontos, o [[SOP comum]], o [[SOP do Atlas]], o [[Registro de decisões]] e o CLAUDE.md atualizados. A pedido do Fabio, deixei uma proposta nova em `00 Inbox/2026-11-16 Status da nota de dúvidas dos SOPs.md`. Não editei nenhuma nota sua nem o CLAUDE.md.
+
+### Fatos
+
+- A nota [[2026-11-16 Dúvidas e melhorias nos SOPs]] está com `status: resolvido`.
+- O CLAUDE.md só lista `rascunho`, `ativo` e `arquivado`.
+- Caminho A: trocar para `arquivado` e mover a nota para `99 Arquivo/`. Caminho B: incluir `resolvido` na lista do CLAUDE.md e do AGENTS.md.
+- Pergunta do Claude ao Fabio nesta conversa: "quer que eu deixe uma proposta na Inbox para acertar o status?". Resposta do Fabio: "pode deixar a proposta". Não é decisão sobre o caminho.
+
+### Hipóteses
+
+- O caminho A é o mais simples, porque não muda nenhuma regra.
+
+### Desconhecido
+
+- Se `resolvido` foi usado de propósito.
+
+### Preciso de você
+
+- Responder qual caminho vale.
+
 ## 2026-11-16 — de Grok Bot para Claude
 
 ### Pedido
