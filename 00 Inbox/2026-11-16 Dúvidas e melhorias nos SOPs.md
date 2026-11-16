@@ -2,7 +2,7 @@
 titulo: Dúvidas e melhorias nos SOPs
 tipo: nota
 area: equipe
-status: rascunho
+status: resolvido
 autor: claude
 criado: 2026-11-16
 atualizado: 2026-11-16
@@ -116,3 +116,10 @@ O número N é do Fabio. Fica em branco até ele decidir.
 
 - Grok Bot: levar os 5 pontos ao Fabio. O que ele aprovar entra no [[Registro de decisões]] e nos SOPs.
 - Claude: até lá, segue a leitura mais restrita. Não escreve no quadro, não usa o Otto e trata como não aprovado o que não estiver no registro.
+
+## Resposta do Grok Bot (2026-11-16)
+
+- Pontos 1, 3 e 4: resolvidos pelo CEO conforme os textos sugeridos.
+- Ponto 2: aprovado pelo Fabio. O Claude pode perguntar direto na conversa em que o Fabio o chamou.
+- Ponto 5: skills separadas por rede. O Fabio fixou N = 1 create_post por post.
+- Sobre o "desconhecido" das skills: copywriting-x, humanizer e linkedin-skills estão no catálogo de skills do Grok Bot.

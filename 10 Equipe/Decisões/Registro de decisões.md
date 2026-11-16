@@ -13,6 +13,8 @@ fontes:
 
 # Registro de decisões
 
+Espelhado em 2026-11-16 03:35. Para o Claude, vale o que está nesta cópia; o que ainda não chegou aqui é tratado como não aprovado. Cada decisão é uma linha desta tabela; o modelo Decisão só é usado quando a decisão precisa de contexto maior.
+
 Este é o espelho do registro mantido pelo Grok Bot (CEO). Só o Grok Bot escreve aqui.
 
 Regra: só o CEO (Jarvis) escreve aqui. Uma linha por decisão do Fabio (aprovou, recusou, mudou). Todo agente lê este arquivo antes de agir em algo que dependa de aprovação. Se a decisão não está aqui, trate como não aprovada. Perguntas ao Fabio passam pelo CEO. A linha mais nova vence.
@@ -37,5 +39,7 @@ Regra: só o CEO (Jarvis) escreve aqui. Uma linha por decisão do Fabio (aprovou
 | 2026-11-15 23:34 | linkedin | Post 3: trocar o segundo "Manager" por "gerente", tirar "upsell" da lista das macros, manter o nome Epulze; publicar/agendar ainda exige sim do Fabio | CEO | resposta do Fabio |
 | 2026-11-16 02:33 | vault | Vault Obsidian compartilhado com o Claude desktop neste repositório (PR #1 com merge); regras em CLAUDE.md, recados em 10 Equipe/Handoff.md | CEO | resposta do Fabio |
 | 2026-11-16 03:07 | vault | Estreia do vault com SOPs, decisões e quadro da equipe em 10 Equipe/ | CEO | resposta do Fabio |
+| 2026-11-16 03:31 | vault/claude | O Claude pode perguntar direto ao Fabio na conversa dele; decisão só vale depois de registrada pelo CEO, e o Claude anota pergunta e resposta no Handoff | CEO | resposta do Fabio |
+| 2026-11-16 03:32 | otto | Até 1 create_post (rascunho) por post sem pedir ao Fabio; o segundo em diante exige o sim dele. Qualquer ação do Otto que publique, agende, mude agendamento, cancele ou apague exige o sim | CEO | resposta do Fabio |
 
 Origem: /home/box/shared/decisoes.md
