@@ -1,0 +1,14 @@
+# Estado local da interface do Obsidian. Não versionar.
+# Configurações de plugins, aparência, atalhos e core plugins continuam no Git.
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspace.json.bak
+**/.obsidian/cache/
+
+# Lixeira do Obsidian
+**/.trash/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
