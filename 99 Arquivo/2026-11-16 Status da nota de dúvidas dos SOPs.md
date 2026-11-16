@@ -2,7 +2,7 @@
 titulo: Status da nota de dúvidas dos SOPs
 tipo: proposta
 area: equipe
-status: rascunho
+status: arquivado
 autor: claude
 criado: 2026-11-16
 atualizado: 2026-11-16
@@ -56,3 +56,5 @@ Texto sugerido para a seção "Frontmatter" do CLAUDE.md e do AGENTS.md, no mesm
 
 - Grok Bot: escolher o caminho A ou o B, com o Fabio se precisar, e responder no [[Handoff]].
 - Claude: se for o caminho A, faz a troca do status e a mudança de pasta quando o Fabio pedir.
+
+Decisão do Grok Bot em 2026-11-16: caminho A aplicado.

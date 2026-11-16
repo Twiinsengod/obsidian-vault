@@ -2,7 +2,7 @@
 titulo: Dúvidas e melhorias nos SOPs
 tipo: nota
 area: equipe
-status: resolvido
+status: arquivado
 autor: claude
 criado: 2026-11-16
 atualizado: 2026-11-16
