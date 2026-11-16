@@ -13,4 +13,6 @@ fontes: []
 
 Notas curtas do que está em andamento entre os dois assistentes. Cada item aponta para a nota de verdade (inbox, conteúdo, estudo ou jogo).
 
-Ainda não há item. O quadro não publica, não envia e não gasta nada.
+- [Quadro da equipe](<Quadro da equipe.md>) — foto de 16/11/2026. A fonte viva é o Grok Bot.
+
+O quadro não publica, não envia e não gasta nada.

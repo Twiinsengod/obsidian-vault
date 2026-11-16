@@ -13,4 +13,7 @@ fontes: []
 
 Procedimentos que os dois assistentes repetem. Um SOP descreve o passo a passo. Não é decisão.
 
-Use o modelo [SOP](<../../90 Modelos/SOP.md>). Ainda não há procedimento escrito. O que não estiver numa nota daqui é desconhecido.
+- [SOP comum](<SOP comum.md>) — vale para todos os agentes.
+- [SOP do Atlas](<SOP do Atlas.md>) — o que é específico do Atlas.
+
+Use o modelo [SOP](<../../90 Modelos/SOP.md>). O que não estiver numa nota daqui é desconhecido.

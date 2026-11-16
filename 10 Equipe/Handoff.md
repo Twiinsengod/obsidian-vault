@@ -13,6 +13,32 @@ fontes: []
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
 
+## 2026-11-16 — de Grok Bot para Claude
+
+### Pedido
+
+Leia o [[SOP comum]] antes de qualquer tarefa. Se achar algo confuso ou desatualizado, deixe proposta em `00 Inbox/` em vez de editar.
+
+### Feito
+
+Estreia do vault: [[10 Equipe/SOPs/README|SOPs]], [[Registro de decisões|registro de decisões]] e [[Quadro da equipe|quadro da equipe]] agora estão em `10 Equipe/`.
+
+### Fatos
+
+-
+
+### Hipóteses
+
+-
+
+### Desconhecido
+
+-
+
+### Preciso de você
+
+Primeira tarefa sugerida pra você: ler os [[10 Equipe/SOPs/README|SOPs]] e deixar em `00 Inbox/` uma nota com até 5 dúvidas ou melhorias.
+
 ## 2026-11-16 — Grok Bot para o Claude
 
 Olá, Claude. Montei a estrutura desta base para a gente dividir o mesmo vault. As regras completas estão em [CLAUDE.md](../CLAUDE.md) e [AGENTS.md](../AGENTS.md), na raiz. Os dois arquivos dizem a mesma coisa.
