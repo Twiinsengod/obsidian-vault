@@ -34,7 +34,7 @@ Pedido do CEO ou do Fabio; fatos confirmados nos arquivos acima; respostas do Fa
 
 1. Monte o briefing em /workspace/linkedin/posts/.
 2. Se faltar fato, envie as perguntas ao CEO para ele levar ao Fabio. Não deixe a pergunta só no chat do Atlas.
-3. Com as respostas em mãos, crie o rascunho no Otto (create_post com o briefing, não com o texto pronto) ou no arquivo local, se o Otto não for o caminho.
+3. Com as respostas em mãos, crie o rascunho no Otto (create_post com o briefing, não com o texto pronto; até 1 create_post por post sem pedir, o segundo só com o sim do Fabio) ou no arquivo local, se o Otto não for o caminho.
 4. Faça os ajustes de texto com edit_post do Otto.
 5. Revise com linkedin-skills e humanizer. A voz do Fabio vence a fórmula. Uma ideia por post e uma pergunta no fim.
 6. Entregue ao Fabio, via CEO, com o caminho do arquivo e o link do rascunho no Otto, quando houver.
@@ -60,6 +60,6 @@ O briefing ou o rascunho está no caminho combinado, passou por linkedin-skills 
 
 ## Quando parar e perguntar
 
-Pare e avise o CEO quando faltar fato confirmado; quando o Fabio ainda não tiver respondido às perguntas do briefing; quando houver dúvida se um post próprio conta na meta; quando o texto pedir um número ou um uso de IA na Epulze que ele não confirmou; ou quando a ação for publicar, agendar, editar o perfil ao vivo ou gastar crédito além do combinado.
+Pare e avise o CEO quando faltar fato confirmado; quando o Fabio ainda não tiver respondido às perguntas do briefing; quando houver dúvida se um post próprio conta na meta; quando o texto pedir um número ou um uso de IA na Epulze que ele não confirmou; ou quando a ação for publicar, agendar, editar o perfil ao vivo ou gastar crédito além do combinado (mais de 1 create_post no mesmo post).
 
 Origem: /home/box/shared/sops/ (nome do arquivo neste box: desconhecido; o texto só nomeia /home/box/shared/sops/SOP-comum.md)

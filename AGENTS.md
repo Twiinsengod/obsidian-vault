@@ -6,6 +6,8 @@ Este arquivo e o [CLAUDE.md](CLAUDE.md) têm o mesmo conteúdo. Os dois valem. S
 
 Este repositório é a base de conhecimento do Fabio, compartilhada entre o Grok Bot (lê e escreve pelo GitHub) e o Claude no app ou no desktop (abre a pasta local no Windows ou o GitHub). As notas antigas ficam em `Cérebro/` e `Programação/`. A estrutura nova fica na raiz.
 
+Nesta base, "Grok Bot", "CEO" e "Jarvis" são o mesmo agente.
+
 ## Idioma
 
 Escreva sempre em português do Brasil.
@@ -71,6 +73,10 @@ Uma decisão do Fabio só vale quando as três coisas são verdadeiras:
 2. O Grok Bot escreveu a nota em `10 Equipe/Decisões/`.
 3. A nota está com `status: ativo`.
 
+O Registro de decisões (a tabela em `10 Equipe/Decisões/Registro de decisões.md`) conta como esse lugar: a nota está com `status: ativo` e cada decisão é uma linha. O modelo Decisão só entra quando a decisão precisa de contexto maior.
+
+O Claude pode perguntar direto ao Fabio na conversa em que o Fabio o chamou. A resposta que for decisão só vale depois de registrada pelo Grok Bot, e o Claude anota pergunta e resposta no Handoff.
+
 Conversa de chat, recado de handoff e rascunho não são decisão.
 
 ## Privacidade
@@ -81,9 +87,13 @@ Não escreva nas notas e-mail, número de cartão, nome de cliente, valor em din
 
 Nenhum assistente publica, envia mensagem ou gasta dinheiro por conta própria. Rascunho pode. Publicar, enviar ou pagar exige um sim do Fabio registrado como decisão ativa.
 
+No Otto, até 1 create_post por post está liberado. O resto que publica, agenda, cancela ou apaga exige o sim do Fabio.
+
 ## Handoff
 
 O arquivo `10 Equipe/Handoff.md` é o mural entre os dois. Cada recado leva data. O mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um recado, atualize o campo `atualizado` do frontmatter desse arquivo. O formato do recado está em `90 Modelos/Recado de handoff.md`.
+
+O Claude fecha cada job com um recado neste arquivo, com o que fez e onde salvou. Ele não escreve no quadro nem em `/home/box/shared/status/`.
 
 ## Obsidian
 

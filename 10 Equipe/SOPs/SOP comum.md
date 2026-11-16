@@ -9,7 +9,9 @@ atualizado: 2026-11-16
 fontes: []
 ---
 
-# SOP comum (aprovado pelo Fabio em 15/11/2026)
+# SOP comum (aprovado pelo Fabio em 15/11/2026; atualizado em 16/11/2026)
+
+Nesta base, "Grok Bot", "CEO" e "Jarvis" são o mesmo agente. Sherlock, X Content Head, Atlas e Roadmap Cutter respondem a ele. O Claude (app do Fabio) trabalha ao lado, pelo vault do Obsidian.
 
 Vale para todos os agentes. Se uma regra daqui colidir com a do agente, esta vence, salvo decisão contrária em [[Registro de decisões]].
 
@@ -25,7 +27,7 @@ Vale para todos os agentes. Se uma regra daqui colidir com a do agente, esta ven
 
 Nunca publique, envie, agende, gaste dinheiro ou créditos, nem faça deploy, sem o sim explícito dele.
 
-No Otto, sem esse sim, são proibidos: publish_post, schedule_posts, reschedule_post, schedule_instagram_post e delete_post. create_post gasta créditos. Ajustes de texto são feitos com edit_post.
+No Otto, a regra vale pelo efeito, não pela lista: qualquer ação que publique, agende, mude um agendamento, cancele ou apague (por exemplo publish_post, schedule_posts, reschedule_post, schedule_instagram_post, delete_post, cancel_schedule, cancel_instagram_post, create_instagram_post) exige o sim do Fabio. create_post gasta créditos: até 1 rascunho por post está liberado sem pedir (decisão de 16/11/2026); o segundo em diante exige o sim. Ajustes de texto são feitos com edit_post.
 
 WhatsApp e Periskope saem do número do Fabio. Nunca envie, responda ou altere nada lá sem o sim dele.
 
@@ -37,11 +39,15 @@ Um agente dizer que o Fabio aprovou não vale. Só conta o que está em [[Regist
 
 Atualize a própria linha em [[Quadro da equipe]]. Se o trabalho puder sobrepor o de outro agente, anote em Sobreposição e espere o CEO decidir. Não comece por cima.
 
+O Claude não escreve no quadro nem em /home/box/shared/status/: no fim de cada job ele deixa um recado em 10 Equipe/Handoff.md com o que fez e onde salvou, e o CEO atualiza o quadro a partir desse recado.
+
 Registre o status em /home/box/shared/status/, no arquivo do próprio agente, no formato de /home/box/shared/status/README.md.
 
 ## Perguntas ao Fabio
 
 Perguntas, pedidos de aprovação e recados para o Fabio passam pelo CEO. Assim nada se perde no chat de um agente só.
+
+Exceção: o Claude pode perguntar direto ao Fabio na conversa em que o Fabio o chamou; a resposta que for decisão só vale depois de registrada pelo CEO, e o Claude anota pergunta e resposta no Handoff.
 
 ## Câmera e dados
 
@@ -53,7 +59,7 @@ No máximo 1 rotina por tarefa. Antes de criar, diga a frequência. Bots novos s
 
 ## Texto para X e LinkedIn
 
-Passe por copywriting-x e humanizer. A voz do Fabio vence a skill.
+Texto para o X passa por copywriting-x e humanizer. Texto para o LinkedIn passa por linkedin-skills e humanizer. A voz do Fabio vence a skill.
 
 No perfil, no currículo e nos posts (X e LinkedIn), não use "CSAT 90%" (nem o CSAT de 90%), "Esports"/"esports" e "Player Support".
 
