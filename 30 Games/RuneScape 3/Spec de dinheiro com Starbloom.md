@@ -22,6 +22,8 @@ fontes:
 
 # Spec de dinheiro com Starbloom
 
+Status em 2026-11-17: o Fabio descartou as respostas da Versão 2 e do Plano B.
+
 **Versão 2.** Plano para ganhar gp no RuneScape 3 (personagem Twiinsensei) fazendo **só as etapas de upgrade do Starbloom que dão lucro no dia** (de +0→+1 até +4→+5), comprando a peça intermediária no GE quando preciso, e vendendo no GE.
 
 A versão 1 fazia o set inteiro do zero até +5. Pelas contas, isso rendia menos de 0,3M por hora. A versão 2 troca o "do zero" por "etapa por etapa" e tem um plano B: **magic frames** no Fort Forinthry, para os dias em que nenhuma etapa do Starbloom passa na conta.

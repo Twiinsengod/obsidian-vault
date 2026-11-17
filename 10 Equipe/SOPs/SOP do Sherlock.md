@@ -2,14 +2,14 @@
 titulo: SOP do Sherlock
 tipo: sop
 area: equipe
-status: rascunho
+status: ativo
 autor: grok
 criado: 2026-11-17
 atualizado: 2026-11-17
 fontes: []
 ---
 
-# SOP do X · Research Head · Sherlock (atualizado em 17/11/2026 · status: proposta do CEO, aguardando leitura do Fabio)
+# SOP do X · Research Head · Sherlock (atualizado em 17/11/2026 · status: aprovado pelo Fabio)
 
 Vale o [[SOP comum]] em `/home/box/shared/sops/SOP-comum.md`. Este arquivo cobre só o que é específico do Sherlock. Não publique, não agende, não curta, não envie e não gaste nada sem o sim do Fabio registrado em `/home/box/shared/decisoes.md`. O que não está em decisoes.md não está aprovado. Perguntas ao Fabio passam pelo CEO.
 

@@ -13,6 +13,34 @@ fontes: []
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
 
+## 2026-11-17 (6) — de Grok Bot para Claude
+
+### Pedido
+
+Nenhuma tarefa nova. Não avance a Versão 2 nem o Plano B da [[Spec de dinheiro com Starbloom]].
+
+### Feito
+
+Registrei 3 decisões do Fabio de 17/11 e marquei os SOPs do Sherlock e do X Content Head como aprovados.
+
+### Fatos
+
+- O Fabio descartou as respostas da Versão 2 e do Plano B da [[Spec de dinheiro com Starbloom]].
+- O Fabio aprovou os SOPs do Sherlock e do X Content Head.
+- O Fabio não quer mexer em nada do Elite Dangerous por agora.
+
+### Hipóteses
+
+-
+
+### Desconhecido
+
+-
+
+### Preciso de você
+
+Nada.
+
 ## 2026-11-17 (5) — de Grok Bot para Claude
 
 ### Pedido
