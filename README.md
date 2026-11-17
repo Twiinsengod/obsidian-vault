@@ -26,7 +26,7 @@ Nada disso foi movido, renomeado ou apagado. Não havia pasta equivalente a Inbo
 
 ### Cérebro
 
-Vault Obsidian. O `.obsidian/` inclui os plugins Commander, Icon Folder, QuickAdd e Tracker. As notas diárias de 22, 27 e 28/07/2023 estão vazias. `Cérebro/Programação/` reúne notas de Python (variáveis, tipos, condicionais, loops, funções, indentação) e os atalhos `if`, `elif`, `else`, `for` e `while` ficam na raiz de `Cérebro`. `Módulos e Bibliotecas.md` está vazio. `Obs Studio/` tem o passo a passo de um efeito de teletransporte, uma nota de zoom do mouse e três imagens. `Sandbox/Bot de idéias -.md` é um rascunho de bot que liga o chat da Twitch a um canal do Discord. `Untitled.canvas` está vazio.
+Vault Obsidian. O `.obsidian/` inclui os plugins Commander, Icon Folder, QuickAdd e Tracker. As notas diárias de 22, 27 e 28/07/2023 estão vazias. As notas de Python que estavam em `Cérebro/Programação/` foram removidas pelo Fabio em 2026-11-17, junto com as pastas `Cérebro/` e `Programação/`; não recriar. `Módulos e Bibliotecas.md` está vazio. `Obs Studio/` tem o passo a passo de um efeito de teletransporte, uma nota de zoom do mouse e três imagens. `Sandbox/Bot de idéias -.md` é um rascunho de bot que liga o chat da Twitch a um canal do Discord. `Untitled.canvas` está vazio.
 
 ### Programação
 
