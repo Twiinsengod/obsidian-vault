@@ -5,13 +5,110 @@ area: equipe
 status: ativo
 autor: grok
 criado: 2026-11-16
-atualizado: 2026-11-16
+atualizado: 2026-11-17
 fontes: []
 ---
 
 # Handoff
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
+
+## 2026-11-17 — de Claude para Grok Bot
+
+### Pedido
+
+Se for o caso, registre como decisão as respostas do Fabio que estão no fim da [[Spec de dinheiro com Starbloom]].
+
+### Feito
+
+Li este Handoff e não achei recado pendente para mim. Depois, a pedido do Fabio, entrevistei ele e escrevi a spec de dinheiro com Starbloom (robes de Crafting, do zero até +5) no RuneScape 3. Salvei em `30 Games/RuneScape 3/Spec de dinheiro com Starbloom.md`, com `status: rascunho`. Deixei também uma proposta para o README do RuneScape 3 em `00 Inbox/`. Não editei nenhuma nota sua.
+
+### Fatos
+
+- Respostas do Fabio: objetivo é ganhar gp; fazer do zero até +5 com cloth do GE; substitui o Thieving (as 3h por semana); corte de 10M por hora; teste de 1 hora decide. Ele já tem Crafting cape e 384 cloth (um set inteiro).
+- Pergunta: "De onde sai o capital?". Resposta: "Escolha a melhor recomendação de acordo com a spec". Recomendei usar só a cloth que ele já tem e comprar mais apenas se o teste passar, com lucro novo.
+
+- O Fabio informou que o GE cobra 2% em toda venda acima de 50 gp. A spec já usa essa taxa.
+
+### Hipóteses
+
+- Pelas minhas contas com a Wiki e a taxa de 2%, do zero rende menos de 0,3M por hora, então o teste provavelmente devolve as 3h ao Thieving.
+
+### Desconhecido
+
+- O tempo real por peça com os cliques de foco.
+
+### Preciso de você
+
+- Registrar as respostas como decisão, se o Fabio confirmar.
+- Ver a proposta `00 Inbox/2026-11-17 Proposta para o README do RuneScape 3.md`, que põe no README de `30 Games/RuneScape 3/` o link das duas specs.
+
+## 2026-11-16 — de Claude para Grok Bot
+
+### Pedido
+
+Registre no [[Registro de decisões]] a resposta do Fabio abaixo (regras da wiki no CLAUDE.md e no AGENTS.md, e a pasta `01 Fontes/`). Depois leia a seção "Wiki" do AGENTS.md e o [[SOP da wiki]].
+
+### Feito
+
+A pedido do Fabio, estudei o post do Karpathy e o vídeo do Anwar Hermuche sobre o método LLM Wiki e apliquei o método no vault:
+
+- Estudo em `40 Estudos de IA/2026-11-16 Método LLM Wiki do Karpathy.md`.
+- Pastas novas: `01 Fontes/` (fontes brutas, ninguém edita) e `50 Wiki/` (`Resumos/`, `Conceitos/`, `Entidades/`, `Respostas/`), com [[Índice da wiki]], [[Log da wiki]] e `Páginas da wiki.base`.
+- `10 Equipe/SOPs/SOP da wiki.md` com as três operações: ingerir, perguntar, revisar.
+- Modelos novos: `90 Modelos/Página de resumo.md` e `90 Modelos/Página da wiki.md`.
+- Seção "Wiki" acrescentada no CLAUDE.md e no AGENTS.md, com o mesmo texto. Também acrescentei uma linha em "Frontmatter" e duas em "Onde colocar uma nota". Não apaguei nem reescrevi nada.
+- Linhas acrescentadas em notas suas, a pedido do Fabio: mapa e convenções do README da raiz, README de `10 Equipe/SOPs/` (link do SOP da wiki), README de `40 Estudos de IA/` (troquei "Ainda não há estudo" pelo link do estudo) e README de `90 Modelos/` (dois modelos).
+- A pasta `Clippings`, que ficava fora do repositório, foi copiada para `01 Fontes/`. O Fabio apaga a antiga. São três clips: PvME (ordem de upgrades de Necromancy), guia de dinheiro da RuneScape Wiki e página inicial da RuneScape Wiki.
+- Primeira ingestão das três fontes: 3 resumos, 2 conceitos e 2 entidades. Está tudo no índice e no log.
+
+### Fatos
+
+- Pergunta do Claude ao Fabio: "O método precisa de regras novas no CLAUDE.md e no AGENTS.md. Edito direto ou deixo proposta na Inbox?". Resposta: "Edite direto".
+- Pergunta do Claude ao Fabio: "A pasta Clippings está fora do Git. Movo para o repo ou deixo?". Resposta: "Mover para o repo".
+- Na `50 Wiki/`, qualquer assistente pode editar a página do outro (acrescentar, corrigir com fonte, ligar). Fora dela a regra antiga continua.
+- A ingestão do guia de dinheiro foi parcial: só a estrutura e os métodos de Thieving. Isso está anotado no log.
+
+### Hipóteses
+
+- O Fabio vai precisar fazer commit e push para você ver as mudanças. Eu não tenho terminal no PC dele.
+
+### Desconhecido
+
+- Se você consegue ler o guia de dinheiro (714 KB) inteiro.
+
+### Preciso de você
+
+- Registrar as duas respostas acima como decisão, se for o caso.
+- Ao ingerir ou responder pela wiki, deixar a linha no [[Log da wiki]].
+
+## 2026-11-16 — de Claude para Grok Bot
+
+### Pedido
+
+Nenhum. Só registro do job.
+
+### Feito
+
+A pedido do Fabio, entrevistei ele e escrevi a spec de dinheiro com Thieving no RuneScape 3. Salvei em `30 Games/RuneScape 3/Spec de dinheiro com Thieving.md`, com `status: rascunho`. Não editei nenhuma nota sua.
+
+### Fatos
+
+- A spec complementa a spec de dinheiro com Skilling, que não está no vault.
+- As decisões vieram das respostas do Fabio nesta conversa: corte próprio de 3M por hora (cai para 2M se o teste dos gnomos der menos), até 3 horas por semana, subir de alvo conforme o nível, teste só nos gnomos, clues guardados, Hard Ardougne como tarefa.
+- O [[README]] de `30 Games/RuneScape 3/` ainda diz que não há nota na pasta.
+
+### Hipóteses
+
+- Valores em gp são moeda do jogo, não dinheiro real, então ficaram na nota.
+
+### Desconhecido
+
+- Se o Fabio quer que essas respostas virem decisão registrada.
+
+### Preciso de você
+
+- Se quiser, atualizar o README de `30 Games/RuneScape 3/` com o link da spec.
 
 ## 2026-11-16 — de Grok Bot para Claude
 

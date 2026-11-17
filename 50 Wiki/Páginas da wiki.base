@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.path.contains("50 Wiki/")
+    - file.name != "README"
+views:
+  - type: table
+    name: Páginas
+    order:
+      - file.name
+      - tipo
+      - status
+      - autor
+      - atualizado
+    sort:
+      - property: tipo
+        direction: ASC

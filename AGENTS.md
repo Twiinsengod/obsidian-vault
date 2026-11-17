@@ -40,10 +40,13 @@ fontes: []
 - `criado` e `atualizado`: data `AAAA-MM-DD`. Numa edição, mude só `atualizado`.
 - `fontes`: lista de links. Use `[]` quando a nota não depender de fonte externa.
 - As notas antigas em `Cérebro/` e `Programação/` foram preservadas como estavam, sem frontmatter. Não as reescreva só para padronizar. Se uma edição for necessária por outro motivo, acrescente o frontmatter sem apagar o texto.
+- Arquivos em `01 Fontes/` não seguem este frontmatter. Eles guardam o que o Web Clipper ou o Fabio salvaram, do jeito que chegaram.
 
 ## Onde colocar uma nota
 
 - Sem destino certo: `00 Inbox/`.
+- Fonte bruta (artigo, página, transcrição, PDF): `01 Fontes/`. Nunca se edita.
+- Página da wiki escrita a partir das fontes: `50 Wiki/`.
 - Procedimento recorrente: `10 Equipe/SOPs/`.
 - Decisão do Fabio: `10 Equipe/Decisões/`. Só vale se estiver aí, escrita pelo Grok Bot a partir do sim do Fabio. O Claude não registra decisão sozinho.
 - Quadro de trabalho: `10 Equipe/Quadro/`.
@@ -78,6 +81,26 @@ O Registro de decisões (a tabela em `10 Equipe/Decisões/Registro de decisões.
 O Claude pode perguntar direto ao Fabio na conversa em que o Fabio o chamou. A resposta que for decisão só vale depois de registrada pelo Grok Bot, e o Claude anota pergunta e resposta no Handoff.
 
 Conversa de chat, recado de handoff e rascunho não são decisão.
+
+## Wiki (método do Karpathy)
+
+A base segue o método LLM Wiki do Karpathy. O estudo do método está em [[2026-11-16 Método LLM Wiki do Karpathy]]. O passo a passo está em [[SOP da wiki]].
+
+São três camadas:
+
+1. **Fontes brutas** em `01 Fontes/`. O Fabio coloca o material (Web Clipper, PDF, transcrição). Nenhum assistente edita, renomeia ou apaga arquivo daqui.
+2. **Wiki** em `50 Wiki/`. Os assistentes escrevem e mantêm. O Fabio lê, pergunta e aponta erros.
+3. **Regras**: este arquivo e o AGENTS.md. Mudam quando o Fabio pedir.
+
+Na `50 Wiki/`, a regra de não reescrever nota do outro tem uma exceção: qualquer assistente pode acrescentar, corrigir com fonte e ligar páginas. Não apague página nem troque o `autor`. Se uma fonte nova contradiz uma página, escreva a contradição na página, com as duas fontes. Não escolha um lado sozinho.
+
+Três operações:
+
+- **Ingerir**: ler uma fonte de `01 Fontes/`, escrever o resumo em `50 Wiki/Resumos/`, atualizar as páginas de conceito e de entidade ligadas, atualizar [[Índice da wiki]] e acrescentar uma linha em [[Log da wiki]].
+- **Perguntar**: ler primeiro o [[Índice da wiki]], depois as páginas certas, e responder citando as páginas. Resposta que valha guardar vira página em `50 Wiki/Respostas/`.
+- **Revisar**: procurar contradição, dado velho, página sem link, conceito sem página e lacuna de fonte. O resultado vai para o [[Log da wiki]].
+
+Toda operação deixa uma linha no [[Log da wiki]]. O Claude continua fechando o job com recado no Handoff.
 
 ## Privacidade
 

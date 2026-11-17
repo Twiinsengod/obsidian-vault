@@ -9,10 +9,12 @@ As regras estão em [CLAUDE.md](CLAUDE.md) e [AGENTS.md](AGENTS.md). Os dois arq
 | Pasta | Para que serve |
 | --- | --- |
 | [00 Inbox](<00 Inbox/README.md>) | Nota nova sem destino, e proposta de mudança na nota do outro assistente |
+| [01 Fontes](<01 Fontes/README.md>) | Fontes brutas para a wiki (Web Clipper, PDF, transcrição). Ninguém edita |
 | [10 Equipe](<10 Equipe/README.md>) | SOPs, decisões, quadro e o [Handoff](<10 Equipe/Handoff.md>) |
 | [20 Conteúdo](<20 Conteúdo/README.md>) | Rascunhos para o X e para o LinkedIn |
 | [30 Games](<30 Games/README.md>) | Elite Dangerous, Dota 2 e RuneScape 3 |
 | [40 Estudos de IA](<40 Estudos de IA/README.md>) | Estudos de IA |
+| [50 Wiki](<50 Wiki/README.md>) | Wiki mantida pelos assistentes a partir das fontes, com [Índice](<50 Wiki/Índice da wiki.md>) e [Log](<50 Wiki/Log da wiki.md>) |
 | [90 Modelos](<90 Modelos/README.md>) | Modelos de nota |
 | [99 Arquivo](<99 Arquivo/README.md>) | Nota encerrada |
 | [Cérebro](Cérebro/) | Notas anteriores, preservadas no lugar |
@@ -38,6 +40,7 @@ O `.obsidian` que já existia continua dentro de `Cérebro/` e de `Programação
 
 - Português do Brasil.
 - Nota nova sem destino vai para `00 Inbox/`.
+- Fonte bruta vai para `01 Fontes/` e vira página em `50 Wiki/` (método LLM Wiki do Karpathy; passo a passo no [SOP da wiki](<10 Equipe/SOPs/SOP da wiki.md>)).
 - Nome de arquivo em português e legível. Nota datada começa com `AAAA-MM-DD`.
 - Nota nova leva frontmatter YAML: `titulo`, `tipo`, `area`, `status` (`rascunho`, `ativo` ou `arquivado`), `autor` (`grok`, `claude` ou `fabio`), `criado`, `atualizado`, `fontes`.
 - Fato leva link. Hipótese fica marcada como hipótese. O que não foi confirmado se escreve `desconhecido`.
