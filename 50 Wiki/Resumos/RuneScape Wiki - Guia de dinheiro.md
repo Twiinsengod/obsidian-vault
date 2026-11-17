@@ -5,7 +5,7 @@ area: wiki
 status: ativo
 autor: claude
 criado: 2026-11-16
-atualizado: 2026-11-16
+atualizado: 2026-11-17
 fontes:
   - https://runescape.wiki/w/Money_making_guide
 ---
@@ -37,7 +37,9 @@ Lista da [[RuneScape Wiki]] com os métodos de ganhar dinheiro no RuneScape 3, c
 - [[Lucro por hora]]
 - [[RuneScape Wiki]]
 - [[Spec de dinheiro com Thieving]]
+- [[2026-11-17 Métodos de dinheiro do vídeo do Silenced na conta do Fabio]]
+- [[Magic frame]]
 
 ## O que ficou de fora
 
-- A leitura método a método. Só a estrutura da página e os métodos de Thieving foram olhados nesta ingestão.
+- A leitura método a método. Na primeira ingestão só a estrutura e os métodos de Thieving foram olhados. Em 17/11/2026 também foram lidas as linhas dos métodos do vídeo do [[Silenced]] (heists, urns, barras, Sift Soil, frames, starbloom e outros). A comparação está em [[2026-11-17 Métodos de dinheiro do vídeo do Silenced na conta do Fabio]].

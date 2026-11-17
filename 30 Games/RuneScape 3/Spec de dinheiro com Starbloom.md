@@ -16,13 +16,15 @@ fontes:
   - https://runescape.wiki/w/Special:Lookup?id=59376&type=item
   - https://runescape.wiki/w/Starbloom_robes_(adorned)
   - https://runescape.wiki/w/Masterwork_magic_armour
+  - https://runescape.wiki/w/Magic_frame
+  - https://runescape.wiki/w/Grand_Exchange_Market_Watch/Construction
 ---
 
 # Spec de dinheiro com Starbloom
 
 **Versão 2.** Plano para ganhar gp no RuneScape 3 (personagem Twiinsensei) fazendo **só as etapas de upgrade do Starbloom que dão lucro no dia** (de +0→+1 até +4→+5), comprando a peça intermediária no GE quando preciso, e vendendo no GE.
 
-A versão 1 fazia o set inteiro do zero até +5. Pelas contas, isso rendia menos de 0,3M por hora. A versão 2 troca o "do zero" por "etapa por etapa".
+A versão 1 fazia o set inteiro do zero até +5. Pelas contas, isso rendia menos de 0,3M por hora. A versão 2 troca o "do zero" por "etapa por etapa" e tem um plano B: **magic frames** no Fort Forinthry, para os dias em que nenhuma etapa do Starbloom passa na conta.
 
 ## Objetivo
 
@@ -41,10 +43,10 @@ Fatos ditos pelo Fabio:
 
 ## Onde entra no plano de dinheiro
 
-- **Substitui o Thieving**: usa as até 3 horas por semana da [[Spec de dinheiro com Thieving]], fora das 5h de boss e das 5h de skilling.
-- **Corte: o mesmo do Thieving, 3M por hora** (cai para 2M se o teste dos gnomos der menos). O Starbloom só precisa ganhar do Thieving, porque disputa as mesmas horas.
+- **Até 3 horas por semana**, fora das 5h de boss e das 5h de skilling. Essas horas eram do Thieving.
+- **Corte: 3M por hora.**
+- **O Thieving fica fora desta spec.** Quando o Starbloom não serve, a sessão vai para o plano B (magic frames), e não para o Thieving.
 - O lucro segue a regra da spec de skilling: entra na fila de compras do set do Rasial.
-- Se o teste de 1 hora não passar do corte, as 3 horas voltam para o Thieving.
 
 ## Números da Wiki
 
@@ -103,7 +105,7 @@ Antes de cada etapa, com os preços do GE do dia:
 ## Regras de operação
 
 1. **Início da sessão**: anotar o preço do dia da cloth e de cada peça, de +0 a +5. Fazer a conta de todas as etapas.
-2. **Dia sem etapa boa**: se nenhuma etapa passar na conta, a sessão vai para o Thieving.
+2. **Dia sem etapa boa**: se nenhuma etapa passar na conta, a sessão vai para o plano B (magic frames).
 3. **Ordem**: quando mais de uma etapa passar, fazer primeiro a de **maior lucro por cloth**, desde que caiba no teto de capital.
 4. **As 384 cloth**: usar nas etapas que passam na conta. Só comprar mais cloth quando acabarem, com lucro novo.
 5. **Teto de capital: 5M empatados por vez**, somando a peça comprada e a peça à venda. Fora da reserva de 10M, do capital de giro do skilling e do estoque das máquinas (teto de 59M).
@@ -121,9 +123,40 @@ Antes de cada etapa, com os preços do GE do dia:
    - **gp/h = (valor das peças feitas pelo preço do dia × 0,98 − peças de entrada − cloth gasta × preço da cloth) ÷ horas**
    - Peça que ficou no meio do caminho entra pelo preço do nível em que parou.
 4. Resultado:
-   - **3M/h ou mais** (ou o corte em vigor do Thieving): o método fica e usa as 3 horas semanais.
-   - **Menos que o corte**: sai do plano. As 3 horas voltam para o Thieving.
+   - **3M/h ou mais**: o Starbloom fica como método principal das 3 horas semanais.
+   - **Menos de 3M/h**: o Starbloom sai do plano. As 3 horas vão para o plano B (magic frames).
 5. O teste usa o preço do dia, não o preço em que a peça realmente vendeu. Se as vendas demorarem muito, rever o resultado depois das primeiras vendas.
+
+## Plano B: magic frames
+
+Fatos da Wiki (foto de preços, muda todo dia):
+
+- Cada magic frame é feito com 3 refined magic planks na woodworking bench do Fort Forinthry e pede Construction 80 ([Wiki](https://runescape.wiki/w/Magic_frame)). O Fabio tem Construction 100.
+- Partindo de magic planks comprados no GE, a Wiki mostra uns 24 mil de lucro por frame, 14,4 s por frame e uns 6M por hora, antes da taxa ([Wiki](https://runescape.wiki/w/Magic_frame)). O guia de dinheiro da Wiki dá uns 5,5M por hora para frames de magic ([Wiki](https://runescape.wiki/w/Magic_frame)).
+- Comprar refined planks prontas dava prejuízo na foto da Wiki ([Wiki](https://runescape.wiki/w/Magic_frame)).
+- O magic frame vende muito: uns 9.859 por dia no GE ([Wiki](https://runescape.wiki/w/Grand_Exchange_Market_Watch/Construction)).
+
+Regras:
+
+1. **Ponto de partida**: comprar **magic planks** no GE. Logs e refined planks ficam fora.
+2. **Conta do dia**: cada frame gasta 12 magic planks ([Wiki](https://runescape.wiki/w/Magic_frame)). Lucro por frame = preço do frame × 0,98 − 12 × preço da magic plank. gp/h = lucro por frame × 250 (um frame a cada 14,4 s).
+3. **Corte**: 3M/h, o mesmo do Starbloom. Pelas contas, com a taxa de 2% fica perto de 5,5M/h.
+4. **Capital**: entra no mesmo teto de 5M empatados por vez (planks compradas + frames à venda).
+5. **Venda**: o GE vende muito, então não precisa da regra de 48 horas. Vender no fim de cada sessão.
+
+**Hipótese:** os frames passam do corte quase todo dia, então funcionam como base segura, e o Starbloom entra só nos dias em que alguma etapa rende mais que os frames.
+
+**Desconhecido:**
+
+- O que fazer se, num dia, nem o Starbloom nem os frames passarem de 3M/h. O Fabio decide na hora.
+
+## Achados novos (17/11/2026, para o Fabio decidir)
+
+Nada aqui muda as regras acima. São números que apareceram depois da conversa, na comparação [[2026-11-17 Métodos de dinheiro do vídeo do Silenced na conta do Fabio]].
+
+- **Fiar starbloom flowers em cloth** aparece no guia de dinheiro da Wiki (clip de 16/11/2026) com uns 14,3M/h, atenção baixa, pedindo 100 Crafting e uns 16M de entrada. Rende bem mais que subir as peças.
+- **Frames**: no mesmo clip, o magic frame dá uns 6,0M/h, abaixo de yew (6,8M), elder (6,8M), acadia (6,7M) e wooden (6,7M). O plano B poderia escolher o frame que mais rende no dia, em vez de fixar o magic.
+- **Decorated urns** dá uns 15,7M/h com atenção baixa (Wiki ao vivo, 17/11/2026) e a conta já tem os requisitos. Isso passa no corte de 10M/h da spec de skilling.
 
 ## Se o teste não passar
 
@@ -132,6 +165,8 @@ Antes de cada etapa, com os preços do GE do dia:
 
 ## Fora do escopo
 
+- Thieving (pedido do Fabio).
+- Magic frames partindo de logs ou de refined planks compradas.
 - Plantar starbloom flower com Farming.
 - Usar o set para PvM.
 - Adornar o set.
@@ -168,3 +203,9 @@ Ainda não valem como decisão: só passam a valer depois que o Grok Bot registr
 - "Dia sem etapa boa vai para o Thieving, e o teste fica para o primeiro dia com etapa boa?" — "Sim."
 - "Maior lucro por cloth primeiro, dentro do teto?" — "Sim."
 - "Posso reescrever a spec e deixar recado no Handoff?" — "Sim."
+
+**Plano B (troca a volta das horas para o Thieving):**
+
+- "Os magic frames viram o plano B do Starbloom?" — "Sim. Frames como plano B. Remova Thieving do escopo."
+- "Comprar magic planks no GE, e não logs nem refined planks?" — "Sim."
+- "Acrescentar o plano B na mesma spec?" — "Sim."

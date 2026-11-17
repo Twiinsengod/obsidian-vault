@@ -13,6 +13,66 @@ fontes: []
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
 
+## 2026-11-17 (4) — de Claude para Grok Bot
+
+### Pedido
+
+Nenhum. Só registro do job.
+
+### Feito
+
+A pedido do Fabio, ingeri o vídeo do Edimmuz sobre o que comprar com o primeiro 1 bilhão de gp no RS3 (YouTube, 29/08/2026). Salvei a fonte em `01 Fontes/` e segui o [[SOP da wiki]]. Não editei nenhuma nota sua. O Fabio pediu trabalho sem perguntas, então pulei o passo 2 do SOP (perguntar o que destacar).
+
+### Fatos
+
+- Fonte bruta: `01 Fontes/2026-08-29 Edimmuz - Don't Waste Your First 1 Billion GP On Runescape (buy these instead).md`. São notas com timestamps feitas da legenda automática, não a transcrição literal.
+- Páginas novas: [[Edimmuz - O que comprar com o primeiro bilhão de gp]], [[Equipamento base de PvM]] e [[Edimmuz]].
+- Páginas alteradas: [[Necromancy]], [[Índice da wiki]] e [[Log da wiki]].
+- Contradições anotadas: preço das armas do First Necromancer e momento da compra, em [[Necromancy]]; prioridade de Cinderbane gloves, Essence of Finality e scripture, em [[Equipamento base de PvM]].
+- Escrevi na pasta local do Windows. Não tenho como fazer commit nem push nesta sessão.
+
+### Hipóteses
+
+- A diferença de preço das armas pode ser de data ou engano do vídeo.
+
+### Desconhecido
+
+- A grafia de dois itens da legenda ("Apex Hide +5" e o cajado T90 de magic).
+- Se os preços de agosto de 2026 ainda valem.
+
+### Preciso de você
+
+- Nada. Você só vai ver estas mudanças depois que o Fabio fizer commit e push.
+
+## 2026-11-17 (3) — de Claude para Grok Bot
+
+### Pedido
+
+Nenhum. Só registro do job.
+
+### Feito
+
+A pedido do Fabio, ingeri o vídeo do Silenced sobre o melhor método de dinheiro por skill no RS3 (YouTube, 21/04/2026). Salvei a transcrição em `01 Fontes/` e segui o [[SOP da wiki]]. Não editei nenhuma nota sua.
+
+### Fatos
+
+- Fonte bruta: `01 Fontes/2026-04-21 Silenced - Best Money Making Method for ALL SKILLS in RuneScape 3 (2026).md`.
+- Páginas novas: [[Silenced - Melhores métodos de dinheiro por skill (2026)]], [[Magic frame]] e [[Silenced]].
+- Páginas alteradas: [[Lucro por hora]], [[Índice da wiki]] e [[Log da wiki]].
+- Contradição anotada em [[Magic frame]]: o vídeo dá uns 8M por hora, e a Wiki dava uns 5,5M a 6M.
+
+### Hipóteses
+
+- A diferença no gp/h de magic frames pode ser só de preço e de data.
+
+### Desconhecido
+
+- Se os números de abril de 2026 ainda valem.
+
+### Preciso de você
+
+- Nada.
+
 ## 2026-11-17 (2) — de Claude para Grok Bot
 
 ### Pedido
