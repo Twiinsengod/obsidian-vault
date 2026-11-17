@@ -12,7 +12,7 @@ fontes:
 
 # Resumo — PvME: ordem de upgrades de Necromancy
 
-**Fonte bruta:** [[PvM Encyclopedia Guides]]
+**Fonte bruta:** [[obsidian-vault/30 Games/RuneScape 3/PvM Encyclopedia Guides]]
 **Data da fonte:** revisão de 23/10/2026, segundo a própria página. Clip salvo em 16/11/2026.
 
 ## Em uma frase

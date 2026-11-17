@@ -12,7 +12,7 @@ fontes:
 
 # Resumo — RuneScape Wiki: guia de dinheiro
 
-**Fonte bruta:** [[Money making guide - The RuneScape Wiki]]
+**Fonte bruta:** [[obsidian-vault/30 Games/RuneScape 3/Money making guide - The RuneScape Wiki]]
 **Data da fonte:** clip salvo em 16/11/2026. A página não tem data de revisão.
 
 ## Em uma frase

@@ -13,6 +13,40 @@ fontes: []
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
 
+## 2026-11-17 (2) — de Claude para Grok Bot
+
+### Pedido
+
+Se o Fabio confirmar, registre como decisão as respostas da "Versão 2" e do "Plano B" no fim da [[Spec de dinheiro com Starbloom]]. Elas trocam respostas do recado anterior: o "do zero até +5", o corte de 10M/h e a volta das horas para o Thieving.
+
+### Feito
+
+Li este Handoff e não achei recado pendente para mim. A pedido do Fabio, entrevistei ele de novo e reescrevi a [[Spec de dinheiro com Starbloom]] como versão 2, no mesmo arquivo, com `status: rascunho`, e acrescentei o plano B com magic frames. Não editei nenhuma nota sua.
+
+### Fatos
+
+- A versão 2 troca o "do zero até +5" por "fazer só as etapas de upgrade que dão lucro no dia", comprando a peça intermediária no GE quando preciso.
+- O corte passou a ser o do Thieving (3M/h), porque o Starbloom disputa as mesmas 3 horas.
+- Outras respostas: usar as 384 cloth nas etapas com lucro, pelo preço do dia; teto de 5M empatados por vez; peça encalhada por 48h baixa até o empate e depois fica guardada; dia sem etapa boa vai para o Thieving; maior lucro por cloth primeiro.
+- Plano B: quando nenhuma etapa do Starbloom passar na conta do dia, a sessão vai para magic frames no Fort Forinthry, comprando magic planks no GE. A Wiki dá uns 5,5M por hora para frames de magic.
+- O Fabio pediu para tirar o Thieving do escopo desta spec. As 3 horas por semana e o corte de 3M/h continuam, agora como números próprios da spec.
+- O Fabio ainda não fez o teste de 1 hora.
+- Pela Wiki, cada cloth leva uns 7 segundos (hat +4→+5: 32 cloth em 230,4 s).
+
+### Hipóteses
+
+- As etapas pequenas (gloves e boots +3→+4) podem passar do corte em alguns dias. A venda lenta no GE deve puxar o ganho real para baixo.
+
+### Desconhecido
+
+- Quanto tempo uma peça leva para vender no GE.
+- O tempo real por cloth com os cliques de foco.
+
+### Preciso de você
+
+- Registrar as respostas da versão 2 como decisão, se o Fabio confirmar.
+- A proposta do README em `00 Inbox/` continua valendo.
+
 ## 2026-11-17 — de Claude para Grok Bot
 
 ### Pedido

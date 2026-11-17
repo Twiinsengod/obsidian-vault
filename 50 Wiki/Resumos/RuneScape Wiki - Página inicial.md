@@ -12,7 +12,7 @@ fontes:
 
 # Resumo — RuneScape Wiki: página inicial
 
-**Fonte bruta:** [[The RuneScape Wiki]]
+**Fonte bruta:** [[obsidian-vault/30 Games/RuneScape 3/The RuneScape Wiki]]
 **Data da fonte:** clip salvo em 16/11/2026.
 
 ## Em uma frase

@@ -17,9 +17,9 @@ Catálogo de todas as páginas da `50 Wiki/`. Quem for responder uma pergunta l�
 
 | Página | Resumo | Fonte bruta |
 | --- | --- | --- |
-| [[PvME - Ordem de upgrades de Necromancy]] | Ordem de compras de Necromancy em três estágios de retorno (revisão de 23/10/2026) | [[PvM Encyclopedia Guides]] |
-| [[RuneScape Wiki - Guia de dinheiro]] | Estrutura do guia de dinheiro do RS3 e o que cada coluna traz | [[Money making guide - The RuneScape Wiki]] |
-| [[RuneScape Wiki - Página inicial]] | Avisos e atualizações do jogo até 16/11/2026 | [[The RuneScape Wiki]] |
+| [[PvME - Ordem de upgrades de Necromancy]] | Ordem de compras de Necromancy em três estágios de retorno (revisão de 23/10/2026) | [[obsidian-vault/30 Games/RuneScape 3/PvM Encyclopedia Guides]] |
+| [[RuneScape Wiki - Guia de dinheiro]] | Estrutura do guia de dinheiro do RS3 e o que cada coluna traz | [[obsidian-vault/30 Games/RuneScape 3/Money making guide - The RuneScape Wiki]] |
+| [[RuneScape Wiki - Página inicial]] | Avisos e atualizações do jogo até 16/11/2026 | [[obsidian-vault/30 Games/RuneScape 3/The RuneScape Wiki]] |
 
 ## Conceitos
 
