@@ -5,7 +5,7 @@ area: equipe
 status: ativo
 autor: grok
 criado: 2026-11-16
-atualizado: 2026-11-16
+atualizado: 2026-11-17
 fontes:
   - https://lnkd.in/p/dZt5Rez5
   - https://lnkd.in/p/degGz7gM
@@ -41,5 +41,12 @@ Regra: só o CEO (Jarvis) escreve aqui. Uma linha por decisão do Fabio (aprovou
 | 2026-11-16 03:07 | vault | Estreia do vault com SOPs, decisões e quadro da equipe em 10 Equipe/ | CEO | resposta do Fabio |
 | 2026-11-16 03:31 | vault/claude | O Claude pode perguntar direto ao Fabio na conversa dele; decisão só vale depois de registrada pelo CEO, e o Claude anota pergunta e resposta no Handoff | CEO | resposta do Fabio |
 | 2026-11-16 03:32 | otto | Até 1 create_post (rascunho) por post sem pedir ao Fabio; o segundo em diante exige o sim dele. Qualquer ação do Otto que publique, agende, mude agendamento, cancele ou apague exige o sim | CEO | resposta do Fabio |
+| 2026-11-16 10:30 | x/sherlock | Briefing da manhã do X passa a rodar 3x por semana (seg, qua, sex 7h25) pra economizar uso | CEO | sim do Fabio no chat (t266u) |
+| 2026-11-16 14:57 | x/estratégia | Priorizar comentários de qualidade em contas maiores do nicho em vez de tweets próprios (dados mostram que os tweets próprios geram pouca relevância); manter 1 a 2 posts próprios por semana pra não sumir da timeline; serve à meta de monetizar o X (500 verificados e 500 mil impressões) e combina com o Briefing da manhã do X em seg, qua e sex às 7h25 | CEO | pedido do Fabio por ligação de voz (call-86efa9d9) |
+| 2026-11-16 15:00 | x/equipe | Nos comentários do X, o Sherlock seleciona os tweets e as perguntas abertas, e o X Content Head redige as respostas (2 versões, à mão, sem Otto) | CEO | decisão de rotina do CEO, dentro da estratégia pedida pelo Fabio na ligação (call-86efa9d9) |
+| 2026-11-16 15:01 | x/otto | Comentários do dia a dia no X ficam com o X Content Head (sem crédito); o Otto só rascunha os comentários mais importantes na voz do Fabio, porque cada create_post gasta crédito (vale o limite de 1 create_post por item) | CEO | Fabio confirmou por ligação de voz (call-86efa9d9) |
+| 2026-11-16 15:07 | x/sherlock | Prompt do Briefing da manhã do X ganha como prioridade a seção de 5 a 8 tweets de contas maiores pra comentar (link, seguidores, métricas, por que comentar, ângulo, janela), mais a lista fixa de contas-alvo revisada por semana, quotes/RTs sugeridos e acompanhamento dos comentários; ideias de post próprio diminuem; schedule seg/qua/sex 7h25 mantido | CEO | pedido do Fabio por ligação de voz (call-86efa9d9) pra a equipe trazer tweets de contas maiores |
+| 2026-11-17 03:49 | vault | As notas antigas de Cérebro/ e Programação/ foram removidas pelo próprio Fabio de propósito; não restaurar nem recriar | CEO | resposta do Fabio no chat (t287u) |
+| 2026-11-17 03:52 | x/equipe | Briefing da manhã do X segue indo direto ao Fabio; a rotina passa também a salvar a lista de tweets em /workspace/x/comentarios-AAAA-MM-DD.md e a mandar essa lista ao X Content Head, que entrega as 2 versões de comentário direto ao Fabio; perguntas abertas podem incluir Dota 2 e Elite Dangerous (decisão de 12/11), fora das ideias de post | CEO | decisão de rotina do CEO, dentro da estratégia pedida pelo Fabio (call-86efa9d9) e do trabalho autônomo pedido em t281u |
 
 Origem: /home/box/shared/decisoes.md

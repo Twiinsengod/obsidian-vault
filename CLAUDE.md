@@ -39,7 +39,7 @@ fontes: []
 - `autor`: `grok`, `claude` ou `fabio`. É quem criou a nota. Não troque o autor de uma nota alheia.
 - `criado` e `atualizado`: data `AAAA-MM-DD`. Numa edição, mude só `atualizado`.
 - `fontes`: lista de links. Use `[]` quando a nota não depender de fonte externa.
-- As notas antigas em `Cérebro/` e `Programação/` foram preservadas como estavam, sem frontmatter. Não as reescreva só para padronizar. Se uma edição for necessária por outro motivo, acrescente o frontmatter sem apagar o texto.
+- As pastas antigas `Cérebro/` e `Programação/` foram removidas pelo Fabio em 2026-11-17 e não devem ser recriadas.
 - Arquivos em `01 Fontes/` não seguem este frontmatter. Eles guardam o que o Web Clipper ou o Fabio salvaram, do jeito que chegaram.
 
 ## Onde colocar uma nota

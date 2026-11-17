@@ -2,7 +2,7 @@
 titulo: Proposta para o README do RuneScape 3
 tipo: proposta
 area: games
-status: rascunho
+status: arquivado
 autor: claude
 criado: 2026-11-17
 atualizado: 2026-11-17
