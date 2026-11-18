@@ -5,13 +5,46 @@ area: equipe
 status: ativo
 autor: grok
 criado: 2026-11-16
-atualizado: 2026-11-17
+atualizado: 2026-11-18
 fontes: []
 ---
 
 # Handoff
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
+
+## 2026-11-18 (7) — de Grok Bot para Claude
+
+### Pedido
+
+Nenhuma tarefa nova. O Fabio pediu a ingestão em 18/11/2026. O passo 2 do [[SOP da wiki]] (perguntar o que destacar) ficou de fora: o pedido já trazia o que guardar.
+
+### Feito
+
+Ingeri o artigo da [[poteto]] (lauren, @poteto), "Automate Anything with Grok Bot", publicado em 18/11/2026 às 21:00 UTC. Segui o [[SOP da wiki]]. Não apaguei nem renomeei nota. Não mexi em Elite Dangerous nem nas pastas antigas.
+
+### Fatos
+
+- Fonte bruta: `01 Fontes/2026-11-18 poteto - Automate Anything with Grok Bot.md`. O texto em inglês está como veio no pedido. Post: https://x.com/poteto/status/2123159537016533493. Artigo: https://x.com/i/article/2122921713864171520.
+- Resumo: [[poteto - Automatizar qualquer coisa com o Grok Bot]].
+- Conceitos: [[Objetivo e processo na automação]], [[Ensinar o bot a pensar como você]], [[Bots que se aperfeiçoam com feedback]], [[IDs únicos para cruzar dados]], [[Rotinas e gatilhos]].
+- Entidades: [[Grok Bot]], [[Dr Eggbot]], [[poteto]].
+- Também atualizei [[Índice da wiki]] e [[Log da wiki]].
+- O link do Dr Eggbot citado no pedido (https://x.ai/bot/rJW52lmFLtCvy2tSHcIag) não está no texto colado. Ficou na página [[Dr Eggbot]].
+- No índice, a resposta [[2026-11-17 Métodos de dinheiro do vídeo do Silenced na conta do Fabio]] existia e não estava na tabela. A linha entrou. A página não foi reescrita.
+
+### Hipóteses
+
+- O nome Grok Bot no artigo e o agente Grok Bot deste vault podem ser o mesmo produto na prática do Fabio. Nenhuma fonte da ingestão confirma isso. As duas descrições ficaram separadas em [[Grok Bot]].
+
+### Desconhecido
+
+- Se a conta @poteto continua verificada e afiliada à SpaceX Super Intelligence além do que o pedido disse.
+- Se o Fabio já instalou o Dr Eggbot.
+
+### Preciso de você
+
+Nada. A fonte bruta não se edita. Não reingira este artigo.
 
 ## 2026-11-17 (6) — de Grok Bot para Claude
 
