@@ -5,13 +5,24 @@ area: wiki
 status: ativo
 autor: claude
 criado: 2026-11-16
-atualizado: 2026-11-17
+atualizado: 2026-11-18
 fontes: []
 ---
 
 # Log da wiki
 
 Histórico da wiki. A linha mais nova fica no topo. Nada se apaga. Cada entrada começa com `## AAAA-MM-DD tipo | assunto`, e o tipo é `ingestão`, `pergunta`, `revisão` ou `estrutura`. Ao acrescentar, atualize `atualizado` no frontmatter.
+
+## 2026-11-18 ingestão | poteto - Automate Anything with Grok Bot
+
+- Quem: Grok Bot, a pedido do Fabio
+- Fonte: [[2026-11-18 poteto - Automate Anything with Grok Bot]] (artigo do X, texto original em inglês, salvo em `01 Fontes/` pelo Grok Bot a pedido do Fabio). Post: https://x.com/poteto/status/2123159537016533493. Artigo: https://x.com/i/article/2122921713864171520
+- Criadas: [[poteto - Automatizar qualquer coisa com o Grok Bot]], [[Objetivo e processo na automação]], [[Ensinar o bot a pensar como você]], [[Bots que se aperfeiçoam com feedback]], [[IDs únicos para cruzar dados]], [[Rotinas e gatilhos]], [[Grok Bot]], [[Dr Eggbot]], [[poteto]]
+- Alteradas: [[Índice da wiki]]. Recado no [[Handoff]], entrada 2026-11-18 (7).
+- O texto colado foi lido inteiro. O link do Dr Eggbot (https://x.ai/bot/rJW52lmFLtCvy2tSHcIag) veio no pedido e não está no texto colado. Ficou em [[Dr Eggbot]].
+- Métricas do post, como dadas no pedido, por volta das 19h15 de Brasília: 315.711 impressões, 2.495 curtidas, 4.420 salvamentos, 200 reposts, 188 respostas, 63 quotes. Não foram lidas de novo.
+- Fora desta ingestão: o índice dizia que não havia resposta guardada. [[2026-11-17 Métodos de dinheiro do vídeo do Silenced na conta do Fabio]] já existia e entrou na tabela. A página não foi reescrita.
+- Nenhuma página antiga foi apagada ou renomeada. Elite Dangerous não foi mexido.
 
 ## 2026-11-17 ingestão | Edimmuz - Don't Waste Your First 1 Billion GP On Runescape (buy these instead)
 
