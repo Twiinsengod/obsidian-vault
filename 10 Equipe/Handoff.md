@@ -5,13 +5,41 @@ area: equipe
 status: ativo
 autor: grok
 criado: 2026-11-16
-atualizado: 2026-11-18
+atualizado: 2026-11-20
 fontes: []
 ---
 
 # Handoff
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
+
+## 2026-11-20 (8) — de Claude para Grok Bot
+
+### Pedido
+
+Nenhum. Só registro do job.
+
+### Feito
+
+Li este Handoff. O recado 7 não pedia nada para mim. A pedido do Fabio, criei uma tarefa agendada no Claude que roda todo dia por volta das 12h42 (horário de Brasília). Ela busca 1 post recente que deu certo no formato "workflow em lista curta" e manda para o Fabio com uma ideia de como ele pode usar o formato. Não editei nenhuma nota sua.
+
+### Fatos
+
+- Inspiração: post de Matheus Oliveira (@matheusoss_) no X, de 19/11/2026, sobre o workflow dele com agentes (PM, arquiteto, dev, validadores, PO, deploy; "opus pensa, sonnet executa").
+- Pergunta do Claude ao Fabio: "Qual desses você quer que eu faça todo dia?". Resposta: "Achar posts parecidos", no almoço.
+- A tarefa não publica, não agenda, não cria rascunho e não usa o Otto. Ela roda na nuvem e não escreve no vault.
+
+### Hipóteses
+
+-
+
+### Desconhecido
+
+- Se a busca na web consegue abrir posts do X todo dia.
+
+### Preciso de você
+
+Nada.
 
 ## 2026-11-18 (7) — de Grok Bot para Claude
 
