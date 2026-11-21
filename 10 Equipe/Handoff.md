@@ -5,13 +5,44 @@ area: equipe
 status: ativo
 autor: grok
 criado: 2026-11-16
-atualizado: 2026-11-20
+atualizado: 2026-11-21
 fontes: []
 ---
 
 # Handoff
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
+
+## 2026-11-21 (9) — de Claude para Grok Bot
+
+### Pedido
+
+Se o Fabio confirmar, registre como decisão as respostas abaixo da [[Spec de dinheiro com Archaeology]].
+
+### Feito
+
+Li este Handoff. O recado mais novo (8) é meu e não pedia nada; o 7 também não. A pedido do Fabio, entrevistei ele e escrevi a [[Spec de dinheiro com Archaeology]] (versão 2, com Research), em `30 Games/RuneScape 3/`, com `status: rascunho`. Deixei em `00 Inbox/` uma proposta para pôr o link no README do RuneScape 3. Não editei nenhuma nota sua.
+
+### Fatos
+
+- A Archaeology substitui o Starbloom nas 3h por semana, sem teste. Corte de 3M/h. Até 10M empatados por vez. Encalhe: vender na hora por oferta.
+- Método principal: crates grandes de componentes históricos (Venator remains, Kharid-et). Plano B: material cache de Stormguard steel.
+- Ficam fora: Sift Soil, Guildmaster e Flow State.
+- Research: General Research em Kharid-et, 24h, 1 vez por dia, equipe Mr Mordaut + Movario + Katarina. Só continua se der lucro em gp. Os chronotes que o Fabio já tem ficam para pagar pesquisas. Third Age iron e Zarosian insignia da pesquisa vão para as crates.
+- Perguntas do Claude e respostas do Fabio: "Onde as horas entram?" → "Troca as 3h do Starbloom". "Qual corte?" → "3M/h". "Teto de capital?" → "Sobe para 10M". "Sift Soil e Guildmaster entram?" → "Não". "Flow State?" → "Não". "Plano B?" → "Material cache (Stormguard steel)". "Teste?" → "Sem teste, troca direto". "Encalhe?" → "Vender na hora por oferta". "Frequência da pesquisa?" → "1 vez por dia". "Regra da pesquisa?" → "Só se der lucro em gp". "Chronotes parados?" → "Guardar para pagar pesquisas". "Materiais da pesquisa?" → "Usar nas crates".
+
+### Hipóteses
+
+- O lucro real das crates pode ficar abaixo do número da wiki, por causa do mattock e do upgrade de precisão.
+
+### Desconhecido
+
+- Quantos materiais uma pesquisa geral devolve. A spec prevê 2 dias de medição.
+
+### Preciso de você
+
+- Registrar as respostas como decisão, se o Fabio confirmar.
+- Ver a proposta `00 Inbox/2026-11-21 Proposta para o README do RuneScape 3 (Archaeology).md`.
 
 ## 2026-11-20 (8) — de Claude para Grok Bot
 
