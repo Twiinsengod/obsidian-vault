@@ -5,13 +5,129 @@ area: equipe
 status: ativo
 autor: grok
 criado: 2026-11-16
-atualizado: 2026-11-21
+atualizado: 2026-11-22
 fontes: []
 ---
 
 # Handoff
 
 Recados entre o Grok Bot e o Claude. O recado mais novo fica no topo. Recado antigo não se apaga. Ao acrescentar um, atualize `atualizado` neste frontmatter. O formato está em [Recado de handoff](<../90 Modelos/Recado de handoff.md>).
+
+## 2026-11-22 (13) — de Claude para Grok Bot
+
+### Pedido
+
+Nenhum. Só registro do job.
+
+### Feito
+
+A pedido do Fabio, ingeri o vídeo do AI LABS sobre o método de design com IA do Leon Lin (YouTube, 12/11/2026), seguindo o [[SOP da wiki]]. Não editei nenhuma nota sua.
+
+### Fatos
+
+- Fonte em `01 Fontes/2026-11-12 AI LABS - Creator Of The Best Design Skill Just Unveiled His AI Design Workflow.md`. São notas com timestamps da legenda automática, não a transcrição literal.
+- Páginas novas: [[AI LABS - Método de design com IA do Leon Lin]], 8 conceitos (um por dica, de [[Prompt curto com referências fortes]] a [[Outro modelo como juiz]]) e as entidades [[Leon Lin]], [[AI LABS]] e [[Cook (skill)]]. Alteradas: [[Dribbble]], [[Índice da wiki]] e [[Log da wiki]].
+- Pergunta do Claude e resposta do Fabio: "O que destacar?" → "As 8 dicas do método".
+
+### Hipóteses
+
+- A skill "cook" que aparece na lista do Claude pode ser a mesma Cook do vídeo.
+
+### Desconhecido
+
+- O nome exato do modelo da OpenAI que o Leon usa como juiz.
+
+### Preciso de você
+
+- Nada. Quando ler, mande `claude done "Ingestão feita"` para o escritório.
+
+## 2026-11-22 (12) — de Claude para Grok Bot
+
+### Pedido
+
+Nenhum. Só registro do job.
+
+### Feito
+
+Li este Handoff. O recado mais novo (11) é meu e não pedia nada para mim. A pedido do Fabio, ingeri a página inicial do Dribbble (https://dribbble.com/), seguindo o [[SOP da wiki]]. Não editei nenhuma nota sua.
+
+### Fatos
+
+- Fonte em `01 Fontes/2026-11-22 Dribbble - Página inicial.md`. É uma captura em tópicos, não cópia literal; os shots estão só com título e autor.
+- Páginas novas: [[Dribbble - Página inicial]], [[Dribbble]] e [[Tendências de design]]. Alteradas: [[Índice da wiki]] e [[Log da wiki]].
+- Perguntas do Claude e respostas do Fabio: "Até onde eu leio?" → "Só a página inicial". "O que destacar?" → "Inspiração de design".
+
+### Hipóteses
+
+- O feed Popular de um dia só não prova tendência. Está anotado em [[Tendências de design]].
+
+### Desconhecido
+
+- Como o Dribbble escolhe os shots do Popular.
+
+### Preciso de você
+
+- Nada.
+
+## 2026-11-22 (11) — de Claude para Grok Bot
+
+### Pedido
+
+1. Ver a proposta `00 Inbox/2026-11-22 Proposta de status no Escritório dos bots para o SOP comum.md` e, se o Fabio confirmar, pôr a regra do status no SOP comum e no ambiente de cada bot.
+2. Criar a rotina de uso de 3 vezes por dia (CheckSubscriptionUsage → `office-usage.sh`), com o sim do Fabio para a frequência.
+3. Guardar `OFFICE_URL` e `OFFICE_TOKEN` no cofre de segredos de vocês, quando o Fabio passar. Nunca no vault.
+
+### Feito
+
+A pedido do Fabio, montei o projeto `escritorio-bots`: um escritório 3D ao vivo (Vite + Three.js) servido por um Worker da Cloudflare com Durable Object (SQLite), cron de 5 em 5 minutos e site com senha. Escrevi os scripts `office-status.sh` e `office-usage.sh`. Acrescentei a seção "Status no Escritório dos bots" no CLAUDE.md e no AGENTS.md, a pedido do Fabio. Não editei nenhuma nota sua.
+
+### Fatos
+
+- Perguntas do Claude e respostas do Fabio: "A lista da equipe está ok?", "Topa fazer login e deploy no seu terminal?" e "Em qual pasta ponho o projeto?" → "Prossiga com as suas recomendações". Depois: "A próxima será definir a cor pro resto dos bots. Fica à seu critério escolher as cores".
+- Equipe no escritório: Jarvis (Diretoria, sala de vidro), Sherlock (Pesquisa X), Content Head (Conteúdo X), Atlas (Marca LinkedIn), Roadmap Cutter (Games · Elite) e Claude (Wiki e Vault).
+- O painel de uso marca a meta "usar até 70%", da decisão de 06/11/2026.
+- O deploy é do Fabio, no terminal dele. Senha do site e token nunca passaram pelo chat nem pelo git.
+
+### Hipóteses
+
+- A ferramenta CheckSubscriptionUsage é sua. Ela não existe nas ferramentas do Claude.
+
+### Desconhecido
+
+- O endereço final do site.
+
+### Preciso de você
+
+- Os 3 itens do Pedido. Quando ler este recado, mande `claude done "Escritório montado"` para o escritório.
+
+## 2026-11-21 (10) — de Claude para Grok Bot
+
+### Pedido
+
+Nenhum. Só registro do job.
+
+### Feito
+
+A pedido do Fabio, ingeri o Portal Atlantis (https://www.atlantisrs.cc/), clã brasileiro de RS3, seguindo o [[SOP da wiki]]. Li a página inicial, o "Sobre", o índice da wiki e a Bíblia da EXP inteira (artigos gerais e os guias por habilidade). Não editei nenhuma nota sua.
+
+### Fatos
+
+- Fonte em `01 Fontes/2026-11-21 Portal Atlantis - Início, Sobre e Bíblia da EXP.md`. É uma captura, não cópia literal: as páginas gerais estão em tópicos e os guias por habilidade foram lidos por extração.
+- Páginas novas: [[Atlantis - Portal e Bíblia da EXP]], [[Atlantis]] e [[Archaeology]]. Alteradas: [[Necromancy]], [[Índice da wiki]] e [[Log da wiki]].
+- Perguntas do Claude e respostas do Fabio: "Até onde eu leio o site?" → "Também a Bíblia da EXP". "O que destacar?" → "Ajuda de PvM" e "Guias de XP e conquistas". A Bíblia das Conquistas não entrou, porque o escopo escolhido foi só a Bíblia da EXP.
+- A Bíblia diz que vários itens somem em janeiro de 2027 (proteicos, bonecos, ferramentas anãs, bombas de EXP, núcleos de pulsação, estações portáteis e outros).
+
+### Hipóteses
+
+- A relíquia "Imersão" da Bíblia é a Flow State da RuneScape Wiki, pelo efeito igual.
+
+### Desconhecido
+
+- Como pedir a ajuda de PvM do Atlantis e como entrar no clã. O site não explica.
+
+### Preciso de você
+
+- Nada. Você só vai ver estas mudanças depois que o Fabio fizer commit e push.
 
 ## 2026-11-21 (9) — de Claude para Grok Bot
 

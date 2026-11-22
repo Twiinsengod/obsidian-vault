@@ -5,13 +5,44 @@ area: wiki
 status: ativo
 autor: claude
 criado: 2026-11-16
-atualizado: 2026-11-18
+atualizado: 2026-11-22
 fontes: []
 ---
 
 # Log da wiki
 
 Histórico da wiki. A linha mais nova fica no topo. Nada se apaga. Cada entrada começa com `## AAAA-MM-DD tipo | assunto`, e o tipo é `ingestão`, `pergunta`, `revisão` ou `estrutura`. Ao acrescentar, atualize `atualizado` no frontmatter.
+
+## 2026-11-22 ingestão | AI LABS - Creator Of The Best Design Skill Just Unveiled His AI Design Workflow
+
+- Quem: Claude, a pedido do Fabio
+- Fonte: [[2026-11-12 AI LABS - Creator Of The Best Design Skill Just Unveiled His AI Design Workflow]] (notas com timestamps feitas da legenda automática em inglês, salvas em `01 Fontes/` pelo Claude a pedido do Fabio; não é transcrição literal)
+- Destaque escolhido pelo Fabio: as 8 dicas do método, cada uma com página própria.
+- Criadas: [[AI LABS - Método de design com IA do Leon Lin]], [[Prompt curto com referências fortes]], [[Mockup como alvo]], [[Meta de qualidade em número]], [[Dar tempo ao agente]], [[Proibir a cara de IA]], [[Design primeiro, animação depois]], [[Feedback com alvo exato]], [[Outro modelo como juiz]], [[Leon Lin]], [[AI LABS]], [[Cook (skill)]]
+- Alteradas: [[Dribbble]] (o vídeo usa o Dribbble para achar referências), [[Índice da wiki]]
+- Fora: o trecho do patrocinador, o artigo do Leon no X e o repositório da Cook (não lidos).
+- Grafia desconhecida: o nome do modelo da OpenAI que o Leon usa como juiz.
+- Nenhuma contradição com as páginas existentes.
+
+## 2026-11-22 ingestão | Dribbble - Página inicial
+
+- Quem: Claude, a pedido do Fabio
+- Fonte: [[2026-11-22 Dribbble - Página inicial]] (captura feita pelo Claude em 22/11/2026 de https://dribbble.com/, com o Firecrawl; não é cópia literal: texto em tópicos e shots só com título e autor)
+- Escopo e destaque escolhidos pelo Fabio: só a página inicial; destacar inspiração de design.
+- Criadas: [[Dribbble - Página inicial]], [[Dribbble]], [[Tendências de design]]
+- Alteradas: [[Índice da wiki]]
+- Leitura parcial: sem login o feed para no meio. A aba New & Noteworthy não veio. As imagens não foram vistas; a contagem por tipo saiu dos títulos.
+- Nenhuma contradição com as páginas existentes.
+
+## 2026-11-21 ingestão | Portal Atlantis (início, sobre e Bíblia da EXP)
+
+- Quem: Claude, a pedido do Fabio
+- Fonte: [[2026-11-21 Portal Atlantis - Início, Sobre e Bíblia da EXP]] (captura feita pelo Claude em 21/11/2026 de https://www.atlantisrs.cc/; não é cópia literal: páginas gerais anotadas em tópicos e guias por habilidade lidos por extração)
+- Escopo e destaque escolhidos pelo Fabio: início, Sobre, índice da wiki e Bíblia da EXP; destacar ajuda de PvM e guias de XP.
+- Criadas: [[Atlantis - Portal e Bíblia da EXP]], [[Atlantis]], [[Archaeology]]
+- Alteradas: [[Necromancy]] (rituais e combate), [[Índice da wiki]] (também entrou a [[Spec de dinheiro com Archaeology]] nas notas ligadas)
+- Leitura parcial: Bíblia das Conquistas, hiscores, competições, eventos, notícias, liderança, ranks, leagues e membros ficaram de fora. A página "Comunidade" não trouxe texto sobre PvM nem sobre como entrar no clã.
+- Nenhuma contradição nova com as páginas existentes. Fica como hipótese que a relíquia "Imersão" da Bíblia é a Flow State da RuneScape Wiki.
 
 ## 2026-11-18 ingestão | poteto - Automate Anything with Grok Bot
 

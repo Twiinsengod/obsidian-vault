@@ -102,6 +102,21 @@ Três operações:
 
 Toda operação deixa uma linha no [[Log da wiki]]. O Claude continua fechando o job com recado no Handoff.
 
+## Status no Escritório dos bots
+
+Pedido do Fabio em 2026-11-22. Todo agente manda o próprio status para o Escritório dos bots com o script `office-status.sh <bot> <momento> "<texto>"` (projeto `escritorio-bots`):
+
+- `start` no começo de cada tarefa;
+- `milestone` em cada marco;
+- `handoff` quando leva uma entrega ao Jarvis;
+- `waiting` quando fica esperando o Fabio;
+- `error` quando dá erro;
+- `done` quando termina.
+
+O texto tem até 60 caracteres e é genérico. Sem e-mail, link, @, nome de cliente, número longo ou valor em dinheiro. O token fica só na variável `OFFICE_TOKEN` do ambiente do agente, nunca em nota, git ou chat. Se o envio falhar, o trabalho continua.
+
+O Claude não alcança o Worker a partir do ambiente dele. O status do Claude sai do recado no Handoff: o Jarvis manda `claude done` com um texto genérico ao ler um recado novo do Claude.
+
 ## Privacidade
 
 Não escreva nas notas e-mail, número de cartão, nome de cliente, valor em dinheiro, senha ou chave de API. Se a fonte trouxer um desses dados, descreva o assunto sem o dado.

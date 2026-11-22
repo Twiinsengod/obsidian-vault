@@ -5,11 +5,13 @@ area: wiki
 status: ativo
 autor: claude
 criado: 2026-11-16
-atualizado: 2026-11-17
+atualizado: 2026-11-21
 fontes:
   - https://pvme.io/pvme-guides/upgrading-info/upgrade-order/necromancy/
   - https://www.youtube.com/watch?v=HLXgdk8X544
   - https://runescape.wiki/w/Rasial,_the_First_Necromancer
+  - https://www.atlantisrs.cc/wiki/biblia/guias/necromancy
+  - https://www.atlantisrs.cc/wiki/biblia/guias/combate
 ---
 
 # Necromancy
@@ -26,6 +28,8 @@ Estilo de combate do RuneScape 3.
 - O [[Edimmuz]] chama Necromancy de um dos melhores estilos para jogador novo. ([[Edimmuz - O que comprar com o primeiro bilhão de gp]])
 - Com 1 bilhão de gp, ele compraria os robes do First Necromancer (mais dano e duração dos conjures), a Soulbound lantern e a Omni guard. As duas armas sobem para T100 com Shard of Genesis. ([[Edimmuz - O que comprar com o primeiro bilhão de gp]])
 - Ele compraria a Soulbound lantern antes da Omni guard, porque a lanterna sobe a capacidade de almas de 3 para 5 e fortalece o Volley of Souls. Diz que a Omni guard é boa, mas não obrigatória. ([[Edimmuz - O que comprar com o primeiro bilhão de gp]])
+- Em combate, a Bíblia da EXP do [[Atlantis]] dá até 4,1m de exp/h base de Necromancia nos mortos-vivos do Forte Forinthry (nível 90+) e pede para usar Linhas do Destino regularmente. ([[Atlantis - Portal e Bíblia da EXP]])
+- Necromancia também sobe por rituais, fora de combate: Necroplasma poderoso (90) até 2,1m e Essência poderosa (95) até 2,2m de exp/h base. Antes do 90, a Bíblia manda treinar em combate. Do 99 ao 120 por rituais, ela estima de 150 a 200 milhões de moedas. ([[Atlantis - Portal e Bíblia da EXP]])
 
 ## Contradições
 
@@ -42,3 +46,4 @@ Estilo de combate do RuneScape 3.
 - [[Edimmuz]]
 - [[Equipamento base de PvM]]
 - [[Edimmuz - O que comprar com o primeiro bilhão de gp]]
+- [[Atlantis - Portal e Bíblia da EXP]]
